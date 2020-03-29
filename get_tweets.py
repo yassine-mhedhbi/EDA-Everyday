@@ -12,14 +12,14 @@ class Covid19Listener(tweepy.StreamListener):
 
     def on_status(self, status):
         js = status._json
-        self.file.write(json.dumps(js) + '\n')
-        self.n += 1
-        if self.n < self.num:
-            return True
-        else:
-            return False
-
-        self.file.close()
+        if js['lang'] == 'en':
+            self.file.write(json.dumps(js) + '\n')
+            self.n += 1
+            if self.n < self.num:
+                return True
+            else:
+                return False
+                self.file.close()
 
 
         def on_error(self, status):
@@ -38,6 +38,6 @@ consumer_secret = keys['consumer secret']
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 
-spy = Covid19Listener(1000000, 'test.txt')
+spy = Covid19Listener(1000000, 'data/test.txt')
 stream = tweepy.Stream(auth, spy)
 stream.filter(track=['corona', 'covid19', 'coronavirus', 'corona virus', 'lockdown'])
