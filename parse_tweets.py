@@ -10,9 +10,9 @@ with open('data/raw_tweets.txt', 'r') as f:
         for ch in c(line):
             if ch not in string.punctuation:
                 clean += ch
-        print(clean)
 
-        tweets.append(clean)
+            if len(clean) > 5:
+                tweets.append(clean)
 
 x = list(range(len(tweets)))
 
