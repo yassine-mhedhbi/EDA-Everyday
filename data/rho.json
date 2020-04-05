@@ -1,0 +1,1860 @@
+{
+    "data": [
+        {
+            "rank": 149,
+            "name": "Afghanistan",
+            "density": "59.6850",
+            "densityMi": "154.5841",
+            "pop2020": "38928.3460",
+            "area": 652230
+        },
+        {
+            "rank": 110,
+            "name": "Albania",
+            "density": "100.1043",
+            "densityMi": "259.2700",
+            "pop2020": "2877.7970",
+            "area": 28748
+        },
+        {
+            "rank": 198,
+            "name": "Algeria",
+            "density": "18.4113",
+            "densityMi": "47.6854",
+            "pop2020": "43851.0440",
+            "area": 2381741
+        },
+        {
+            "rank": 50,
+            "name": "American Samoa",
+            "density": "277.3417",
+            "densityMi": "718.3150",
+            "pop2020": "55.1910",
+            "area": 199
+        },
+        {
+            "rank": 74,
+            "name": "Andorra",
+            "density": "165.0962",
+            "densityMi": "427.5990",
+            "pop2020": "77.2650",
+            "area": 468
+        },
+        {
+            "rank": 183,
+            "name": "Angola",
+            "density": "26.3626",
+            "densityMi": "68.2792",
+            "pop2020": "32866.2720",
+            "area": 1246700
+        },
+        {
+            "rank": 75,
+            "name": "Anguilla",
+            "density": "164.8681",
+            "densityMi": "427.0085",
+            "pop2020": "15.0030",
+            "area": 91
+        },
+        {
+            "rank": 65,
+            "name": "Antigua and Barbuda",
+            "density": "221.5588",
+            "densityMi": "573.8374",
+            "pop2020": "97.9290",
+            "area": 442
+        },
+        {
+            "rank": 207,
+            "name": "Argentina",
+            "density": "16.2551",
+            "densityMi": "42.1008",
+            "pop2020": "45195.7740",
+            "area": 2780400
+        },
+        {
+            "rank": 112,
+            "name": "Armenia",
+            "density": "99.6282",
+            "densityMi": "258.0372",
+            "pop2020": "2963.2430",
+            "area": 29743
+        },
+        {
+            "rank": 20,
+            "name": "Aruba",
+            "density": "593.1444",
+            "densityMi": "1536.2441",
+            "pop2020": "106.7660",
+            "area": 180
+        },
+        {
+            "rank": 226,
+            "name": "Australia",
+            "density": "3.3151",
+            "densityMi": "8.5861",
+            "pop2020": "25499.8840",
+            "area": 7692024
+        },
+        {
+            "rank": 104,
+            "name": "Austria",
+            "density": "107.3839",
+            "densityMi": "278.1244",
+            "pop2020": "9006.3980",
+            "area": 83871
+        },
+        {
+            "rank": 96,
+            "name": "Azerbaijan",
+            "density": "117.0806",
+            "densityMi": "303.2387",
+            "pop2020": "10139.1770",
+            "area": 86600
+        },
+        {
+            "rank": 182,
+            "name": "Bahamas",
+            "density": "28.2037",
+            "densityMi": "73.0475",
+            "pop2020": "393.2440",
+            "area": 13943
+        },
+        {
+            "rank": 6,
+            "name": "Bahrain",
+            "density": "2224.2810",
+            "densityMi": "5760.8879",
+            "pop2020": "1701.5750",
+            "area": 765
+        },
+        {
+            "rank": 12,
+            "name": "Bangladesh",
+            "density": "1116.0086",
+            "densityMi": "2890.4622",
+            "pop2020": "164689.3830",
+            "area": 147570
+        },
+        {
+            "rank": 16,
+            "name": "Barbados",
+            "density": "668.3140",
+            "densityMi": "1730.9331",
+            "pop2020": "287.3750",
+            "area": 430
+        },
+        {
+            "rank": 163,
+            "name": "Belarus",
+            "density": "45.5170",
+            "densityMi": "117.8890",
+            "pop2020": "9449.3230",
+            "area": 207600
+        },
+        {
+            "rank": 33,
+            "name": "Belgium",
+            "density": "379.6391",
+            "densityMi": "983.2653",
+            "pop2020": "11589.6230",
+            "area": 30528
+        },
+        {
+            "rank": 202,
+            "name": "Belize",
+            "density": "17.3138",
+            "densityMi": "44.8427",
+            "pop2020": "397.6280",
+            "area": 22966
+        },
+        {
+            "rank": 102,
+            "name": "Benin",
+            "density": "107.6450",
+            "densityMi": "278.8007",
+            "pop2020": "12123.2000",
+            "area": 112622
+        },
+        {
+            "rank": 11,
+            "name": "Bermuda",
+            "density": "1153.2963",
+            "densityMi": "2987.0374",
+            "pop2020": "62.2780",
+            "area": 54
+        },
+        {
+            "rank": 194,
+            "name": "Bhutan",
+            "density": "20.0971",
+            "densityMi": "52.0515",
+            "pop2020": "771.6080",
+            "area": 38394
+        },
+        {
+            "rank": 213,
+            "name": "Bolivia",
+            "density": "10.6255",
+            "densityMi": "27.5202",
+            "pop2020": "11673.0210",
+            "area": 1098581
+        },
+        {
+            "rank": 145,
+            "name": "Bosnia and Herzegovina",
+            "density": "64.0672",
+            "densityMi": "165.9341",
+            "pop2020": "3280.8190",
+            "area": 51209
+        },
+        {
+            "rank": 220,
+            "name": "Botswana",
+            "density": "4.0406",
+            "densityMi": "10.4651",
+            "pop2020": "2351.6270",
+            "area": 582000
+        },
+        {
+            "rank": 187,
+            "name": "Brazil",
+            "density": "24.9607",
+            "densityMi": "64.6482",
+            "pop2020": "212559.4170",
+            "area": 8515767
+        },
+        {
+            "rank": 71,
+            "name": "British Virgin Islands",
+            "density": "200.2053",
+            "densityMi": "518.5317",
+            "pop2020": "30.2310",
+            "area": 151
+        },
+        {
+            "rank": 132,
+            "name": "Brunei",
+            "density": "75.8853",
+            "densityMi": "196.5430",
+            "pop2020": "437.4790",
+            "area": 5765
+        },
+        {
+            "rank": 148,
+            "name": "Bulgaria",
+            "density": "62.6669",
+            "densityMi": "162.3073",
+            "pop2020": "6948.4450",
+            "area": 110879
+        },
+        {
+            "rank": 131,
+            "name": "Burkina Faso",
+            "density": "76.5780",
+            "densityMi": "198.3371",
+            "pop2020": "20903.2730",
+            "area": 272967
+        },
+        {
+            "rank": 28,
+            "name": "Burundi",
+            "density": "427.2036",
+            "densityMi": "1106.4572",
+            "pop2020": "11890.7840",
+            "area": 27834
+        },
+        {
+            "rank": 119,
+            "name": "Cambodia",
+            "density": "92.3521",
+            "densityMi": "239.1920",
+            "pop2020": "16718.9650",
+            "area": 181035
+        },
+        {
+            "rank": 153,
+            "name": "Cameroon",
+            "density": "55.8341",
+            "densityMi": "144.6102",
+            "pop2020": "26545.8630",
+            "area": 475442
+        },
+        {
+            "rank": 222,
+            "name": "Canada",
+            "density": "3.7800",
+            "densityMi": "9.7902",
+            "pop2020": "37742.1540",
+            "area": 9984670
+        },
+        {
+            "rank": 85,
+            "name": "Cape Verde",
+            "density": "137.8594",
+            "densityMi": "357.0559",
+            "pop2020": "555.9870",
+            "area": 4033
+        },
+        {
+            "rank": 54,
+            "name": "Cayman Islands",
+            "density": "248.9470",
+            "densityMi": "644.7727",
+            "pop2020": "65.7220",
+            "area": 264
+        },
+        {
+            "rank": 216,
+            "name": "Central African Republic",
+            "density": "7.7526",
+            "densityMi": "20.0793",
+            "pop2020": "4829.7670",
+            "area": 622984
+        },
+        {
+            "rank": 211,
+            "name": "Chad",
+            "density": "12.7927",
+            "densityMi": "33.1332",
+            "pop2020": "16425.8640",
+            "area": 1284000
+        },
+        {
+            "rank": 185,
+            "name": "Chile",
+            "density": "25.2826",
+            "densityMi": "65.4819",
+            "pop2020": "19116.2010",
+            "area": 756102
+        },
+        {
+            "rank": 80,
+            "name": "China",
+            "density": "148.2775",
+            "densityMi": "384.0387",
+            "pop2020": "1439323.7760",
+            "area": 9706961
+        },
+        {
+            "rank": 166,
+            "name": "Colombia",
+            "density": "44.5658",
+            "densityMi": "115.4254",
+            "pop2020": "50882.8910",
+            "area": 1141748
+        },
+        {
+            "rank": 26,
+            "name": "Comoros",
+            "density": "467.0252",
+            "densityMi": "1209.5954",
+            "pop2020": "869.6010",
+            "area": 1862
+        },
+        {
+            "rank": 134,
+            "name": "Cook Islands",
+            "density": "74.4237",
+            "densityMi": "192.7575",
+            "pop2020": "17.5640",
+            "area": 236
+        },
+        {
+            "rank": 111,
+            "name": "Costa Rica",
+            "density": "99.6892",
+            "densityMi": "258.1950",
+            "pop2020": "5094.1180",
+            "area": 51100
+        },
+        {
+            "rank": 135,
+            "name": "Croatia",
+            "density": "72.5389",
+            "densityMi": "187.8758",
+            "pop2020": "4105.2670",
+            "area": 56594
+        },
+        {
+            "rank": 107,
+            "name": "Cuba",
+            "density": "103.0779",
+            "densityMi": "266.9719",
+            "pop2020": "11326.6160",
+            "area": 109884
+        },
+        {
+            "rank": 34,
+            "name": "Curacao",
+            "density": "369.5788",
+            "densityMi": "957.2092",
+            "pop2020": "164.0930",
+            "area": 444
+        },
+        {
+            "rank": 89,
+            "name": "Cyprus",
+            "density": "130.5112",
+            "densityMi": "338.0240",
+            "pop2020": "1207.3590",
+            "area": 9251
+        },
+        {
+            "rank": 87,
+            "name": "Czech Republic",
+            "density": "135.7888",
+            "densityMi": "351.6929",
+            "pop2020": "10708.9810",
+            "area": 78865
+        },
+        {
+            "rank": 88,
+            "name": "Denmark",
+            "density": "134.4085",
+            "densityMi": "348.1181",
+            "pop2020": "5792.2020",
+            "area": 43094
+        },
+        {
+            "rank": 167,
+            "name": "Djibouti",
+            "density": "42.5862",
+            "densityMi": "110.2983",
+            "pop2020": 988,
+            "area": 23200
+        },
+        {
+            "rank": 115,
+            "name": "Dominica",
+            "density": "95.8535",
+            "densityMi": "248.2606",
+            "pop2020": "71.9860",
+            "area": 751
+        },
+        {
+            "rank": 64,
+            "name": "Dominican Republic",
+            "density": "222.8824",
+            "densityMi": "577.2655",
+            "pop2020": "10847.9100",
+            "area": 48671
+        },
+        {
+            "rank": 172,
+            "name": "DR Congo",
+            "density": "38.1948",
+            "densityMi": "98.9246",
+            "pop2020": "89561.4030",
+            "area": 2344858
+        },
+        {
+            "rank": 146,
+            "name": "Ecuador",
+            "density": "63.7299",
+            "densityMi": "165.0605",
+            "pop2020": "17643.0540",
+            "area": 276841
+        },
+        {
+            "rank": 109,
+            "name": "Egypt",
+            "density": "102.0843",
+            "densityMi": "264.3983",
+            "pop2020": "102334.4040",
+            "area": 1002450
+        },
+        {
+            "rank": 43,
+            "name": "El Salvador",
+            "density": "308.2651",
+            "densityMi": "798.4065",
+            "pop2020": "6486.2050",
+            "area": 21041
+        },
+        {
+            "rank": 158,
+            "name": "Equatorial Guinea",
+            "density": "50.0155",
+            "densityMi": "129.5402",
+            "pop2020": "1402.9850",
+            "area": 28051
+        },
+        {
+            "rank": 179,
+            "name": "Eritrea",
+            "density": "30.1566",
+            "densityMi": "78.1057",
+            "pop2020": "3546.4210",
+            "area": 117600
+        },
+        {
+            "rank": 180,
+            "name": "Estonia",
+            "density": "29.3306",
+            "densityMi": "75.9663",
+            "pop2020": "1326.5350",
+            "area": 45227
+        },
+        {
+            "rank": 105,
+            "name": "Ethiopia",
+            "density": "104.1054",
+            "densityMi": "269.6330",
+            "pop2020": "114963.5880",
+            "area": 1104300
+        },
+        {
+            "rank": 231,
+            "name": "Falkland Islands",
+            "density": "0.2859",
+            "densityMi": "0.7404",
+            "pop2020": "3.4800",
+            "area": 12173
+        },
+        {
+            "rank": 175,
+            "name": "Faroe Islands",
+            "density": "35.0775",
+            "densityMi": "90.8508",
+            "pop2020": "48.8630",
+            "area": 1393
+        },
+        {
+            "rank": 159,
+            "name": "Fiji",
+            "density": "49.0611",
+            "densityMi": "127.0683",
+            "pop2020": "896.4450",
+            "area": 18272
+        },
+        {
+            "rank": 205,
+            "name": "Finland",
+            "density": "16.3721",
+            "densityMi": "42.4038",
+            "pop2020": "5540.7200",
+            "area": 338424
+        },
+        {
+            "rank": 94,
+            "name": "France",
+            "density": "118.3145",
+            "densityMi": "306.4345",
+            "pop2020": "65273.5110",
+            "area": 551695
+        },
+        {
+            "rank": 225,
+            "name": "French Guiana",
+            "density": "3.5756",
+            "densityMi": "9.2607",
+            "pop2020": "298.6820",
+            "area": 83534
+        },
+        {
+            "rank": 141,
+            "name": "French Polynesia",
+            "density": "67.4125",
+            "densityMi": "174.5984",
+            "pop2020": "280.9080",
+            "area": 4167
+        },
+        {
+            "rank": 215,
+            "name": "Gabon",
+            "density": "8.3153",
+            "densityMi": "21.5366",
+            "pop2020": "2225.7340",
+            "area": 267668
+        },
+        {
+            "rank": 62,
+            "name": "Gambia",
+            "density": "226.0893",
+            "densityMi": "585.5712",
+            "pop2020": "2416.6680",
+            "area": 10689
+        },
+        {
+            "rank": 150,
+            "name": "Georgia",
+            "density": "57.2334",
+            "densityMi": "148.2345",
+            "pop2020": "3989.1670",
+            "area": 69700
+        },
+        {
+            "rank": 60,
+            "name": "Germany",
+            "density": "234.6140",
+            "densityMi": "607.6502",
+            "pop2020": "83783.9420",
+            "area": 357114
+        },
+        {
+            "rank": 90,
+            "name": "Ghana",
+            "density": "130.2668",
+            "densityMi": "337.3911",
+            "pop2020": "31072.9400",
+            "area": 238533
+        },
+        {
+            "rank": 5,
+            "name": "Gibraltar",
+            "density": "5615.1667",
+            "densityMi": "14543.2817",
+            "pop2020": "33.6910",
+            "area": 6
+        },
+        {
+            "rank": 130,
+            "name": "Greece",
+            "density": "78.9685",
+            "densityMi": "204.5284",
+            "pop2020": "10423.0540",
+            "area": 131990
+        },
+        {
+            "rank": 232,
+            "name": "Greenland",
+            "density": "0.0262",
+            "densityMi": "0.0679",
+            "pop2020": "56.7700",
+            "area": 2166086
+        },
+        {
+            "rank": 38,
+            "name": "Grenada",
+            "density": "327.1017",
+            "densityMi": "847.1935",
+            "pop2020": "112.5230",
+            "area": 344
+        },
+        {
+            "rank": 56,
+            "name": "Guadeloupe",
+            "density": "245.7764",
+            "densityMi": "636.5609",
+            "pop2020": "400.1240",
+            "area": 1628
+        },
+        {
+            "rank": 44,
+            "name": "Guam",
+            "density": "307.4226",
+            "densityMi": "796.2245",
+            "pop2020": "168.7750",
+            "area": 549
+        },
+        {
+            "rank": 76,
+            "name": "Guatemala",
+            "density": "164.5306",
+            "densityMi": "426.1341",
+            "pop2020": "17915.5680",
+            "area": 108889
+        },
+        {
+            "rank": 155,
+            "name": "Guinea",
+            "density": "53.4164",
+            "densityMi": "138.3485",
+            "pop2020": "13132.7950",
+            "area": 245857
+        },
+        {
+            "rank": 154,
+            "name": "Guinea-Bissau",
+            "density": "54.4775",
+            "densityMi": "141.0968",
+            "pop2020": "1968.0010",
+            "area": 36125
+        },
+        {
+            "rank": 223,
+            "name": "Guyana",
+            "density": "3.6589",
+            "densityMi": "9.4766",
+            "pop2020": "786.5520",
+            "area": 214969
+        },
+        {
+            "rank": 31,
+            "name": "Haiti",
+            "density": "410.9019",
+            "densityMi": "1064.2359",
+            "pop2020": "11402.5280",
+            "area": 27750
+        },
+        {
+            "rank": 122,
+            "name": "Honduras",
+            "density": "88.0472",
+            "densityMi": "228.0423",
+            "pop2020": "9904.6070",
+            "area": 112492
+        },
+        {
+            "rank": 4,
+            "name": "Hong Kong",
+            "density": "6790.7437",
+            "densityMi": "17588.0261",
+            "pop2020": "7496.9810",
+            "area": 1104
+        },
+        {
+            "rank": 106,
+            "name": "Hungary",
+            "density": "103.8435",
+            "densityMi": "268.9546",
+            "pop2020": "9660.3510",
+            "area": 93028
+        },
+        {
+            "rank": 227,
+            "name": "Iceland",
+            "density": "3.3130",
+            "densityMi": "8.5808",
+            "pop2020": "341.2430",
+            "area": 103000
+        },
+        {
+            "rank": 29,
+            "name": "India",
+            "density": "419.7617",
+            "densityMi": "1087.1828",
+            "pop2020": "1380004.3850",
+            "area": 3287590
+        },
+        {
+            "rank": 83,
+            "name": "Indonesia",
+            "density": "143.6144",
+            "densityMi": "371.9614",
+            "pop2020": "273523.6150",
+            "area": 1904569
+        },
+        {
+            "rank": 156,
+            "name": "Iran",
+            "density": "50.9606",
+            "densityMi": "131.9879",
+            "pop2020": "83992.9490",
+            "area": 1648195
+        },
+        {
+            "rank": 120,
+            "name": "Iraq",
+            "density": "91.7658",
+            "densityMi": "237.6733",
+            "pop2020": "40222.4930",
+            "area": 438317
+        },
+        {
+            "rank": 139,
+            "name": "Ireland",
+            "density": "70.2658",
+            "densityMi": "181.9883",
+            "pop2020": "4937.7860",
+            "area": 70273
+        },
+        {
+            "rank": 79,
+            "name": "Isle of Man",
+            "density": "148.6591",
+            "densityMi": "385.0270",
+            "pop2020": "85.0330",
+            "area": 572
+        },
+        {
+            "rank": 30,
+            "name": "Israel",
+            "density": "416.7325",
+            "densityMi": "1079.3373",
+            "pop2020": "8655.5350",
+            "area": 20770
+        },
+        {
+            "rank": 70,
+            "name": "Italy",
+            "density": "200.6459",
+            "densityMi": "519.6728",
+            "pop2020": "60461.8260",
+            "area": 301336
+        },
+        {
+            "rank": 125,
+            "name": "Ivory Coast",
+            "density": "81.8025",
+            "densityMi": "211.8684",
+            "pop2020": "26378.2740",
+            "area": 322463
+        },
+        {
+            "rank": 52,
+            "name": "Jamaica",
+            "density": "269.4174",
+            "densityMi": "697.7912",
+            "pop2020": "2961.1670",
+            "area": 10991
+        },
+        {
+            "rank": 36,
+            "name": "Japan",
+            "density": "334.6558",
+            "densityMi": "866.7585",
+            "pop2020": "126476.4610",
+            "area": 377930
+        },
+        {
+            "rank": 97,
+            "name": "Jordan",
+            "density": "114.2031",
+            "densityMi": "295.7860",
+            "pop2020": "10203.1340",
+            "area": 89342
+        },
+        {
+            "rank": 217,
+            "name": "Kazakhstan",
+            "density": "6.8908",
+            "densityMi": "17.8471",
+            "pop2020": "18776.7070",
+            "area": 2724900
+        },
+        {
+            "rank": 117,
+            "name": "Kenya",
+            "density": "92.6505",
+            "densityMi": "239.9648",
+            "pop2020": "53771.2960",
+            "area": 580367
+        },
+        {
+            "rank": 81,
+            "name": "Kiribati",
+            "density": "147.2861",
+            "densityMi": "381.4709",
+            "pop2020": "119.4490",
+            "area": 811
+        },
+        {
+            "rank": 58,
+            "name": "Kuwait",
+            "density": "239.6773",
+            "densityMi": "620.7643",
+            "pop2020": "4270.5710",
+            "area": 17818
+        },
+        {
+            "rank": 176,
+            "name": "Kyrgyzstan",
+            "density": "32.6290",
+            "densityMi": "84.5090",
+            "pop2020": "6524.1950",
+            "area": 199951
+        },
+        {
+            "rank": 178,
+            "name": "Laos",
+            "density": "30.7245",
+            "densityMi": "79.5764",
+            "pop2020": "7275.5600",
+            "area": 236800
+        },
+        {
+            "rank": 181,
+            "name": "Latvia",
+            "density": "29.2167",
+            "densityMi": "75.6711",
+            "pop2020": "1886.1980",
+            "area": 64559
+        },
+        {
+            "rank": 18,
+            "name": "Lebanon",
+            "density": "653.0277",
+            "densityMi": "1691.3416",
+            "pop2020": "6825.4450",
+            "area": 10452
+        },
+        {
+            "rank": 138,
+            "name": "Lesotho",
+            "density": "70.5732",
+            "densityMi": "182.7845",
+            "pop2020": "2142.2490",
+            "area": 30355
+        },
+        {
+            "rank": 165,
+            "name": "Liberia",
+            "density": "45.4137",
+            "densityMi": "117.6215",
+            "pop2020": "5057.6810",
+            "area": 111369
+        },
+        {
+            "rank": 221,
+            "name": "Libya",
+            "density": "3.9052",
+            "densityMi": "10.1144",
+            "pop2020": "6871.2920",
+            "area": 1759540
+        },
+        {
+            "rank": 59,
+            "name": "Liechtenstein",
+            "density": "238.3000",
+            "densityMi": "617.1970",
+            "pop2020": "38.1280",
+            "area": 160
+        },
+        {
+            "rank": 168,
+            "name": "Lithuania",
+            "density": "41.6890",
+            "densityMi": "107.9744",
+            "pop2020": "2722.2890",
+            "area": 65300
+        },
+        {
+            "rank": 57,
+            "name": "Luxembourg",
+            "density": "242.0642",
+            "densityMi": "626.9463",
+            "pop2020": "625.9780",
+            "area": 2586
+        },
+        {
+            "rank": 1,
+            "name": "Macau",
+            "density": "21644.5000",
+            "densityMi": "56059.2550",
+            "pop2020": "649.3350",
+            "area": 30
+        },
+        {
+            "rank": 126,
+            "name": "Macedonia",
+            "density": "81.0242",
+            "densityMi": "209.8526",
+            "pop2020": "2083.3740",
+            "area": 25713
+        },
+        {
+            "rank": 162,
+            "name": "Madagascar",
+            "density": "47.1705",
+            "densityMi": "122.1716",
+            "pop2020": "27691.0180",
+            "area": 587041
+        },
+        {
+            "rank": 78,
+            "name": "Malawi",
+            "density": "161.4560",
+            "densityMi": "418.1710",
+            "pop2020": "19129.9520",
+            "area": 118484
+        },
+        {
+            "rank": 114,
+            "name": "Malaysia",
+            "density": "97.8407",
+            "densityMi": "253.4074",
+            "pop2020": "32365.9990",
+            "area": 330803
+        },
+        {
+            "rank": 8,
+            "name": "Maldives",
+            "density": "1801.8133",
+            "densityMi": "4666.6965",
+            "pop2020": "540.5440",
+            "area": 300
+        },
+        {
+            "rank": 206,
+            "name": "Mali",
+            "density": "16.3288",
+            "densityMi": "42.2916",
+            "pop2020": "20250.8330",
+            "area": 1240192
+        },
+        {
+            "rank": 9,
+            "name": "Malta",
+            "density": "1397.2880",
+            "densityMi": "3618.9759",
+            "pop2020": "441.5430",
+            "area": 316
+        },
+        {
+            "rank": 39,
+            "name": "Marshall Islands",
+            "density": "327.0166",
+            "densityMi": "846.9729",
+            "pop2020": "59.1900",
+            "area": 181
+        },
+        {
+            "rank": 37,
+            "name": "Martinique",
+            "density": "332.6817",
+            "densityMi": "861.6457",
+            "pop2020": "375.2650",
+            "area": 1128
+        },
+        {
+            "rank": 219,
+            "name": "Mauritania",
+            "density": "4.5112",
+            "densityMi": "11.6839",
+            "pop2020": "4649.6580",
+            "area": 1030700
+        },
+        {
+            "rank": 19,
+            "name": "Mauritius",
+            "density": "623.4157",
+            "densityMi": "1614.6466",
+            "pop2020": "1271.7680",
+            "area": 2040
+        },
+        {
+            "rank": 15,
+            "name": "Mayotte",
+            "density": "729.4519",
+            "densityMi": "1889.2803",
+            "pop2020": "272.8150",
+            "area": 374
+        },
+        {
+            "rank": 144,
+            "name": "Mexico",
+            "density": "65.6355",
+            "densityMi": "169.9960",
+            "pop2020": "128932.7530",
+            "area": 1964375
+        },
+        {
+            "rank": 77,
+            "name": "Micronesia",
+            "density": "163.8504",
+            "densityMi": "424.3726",
+            "pop2020": "115.0230",
+            "area": 702
+        },
+        {
+            "rank": 93,
+            "name": "Moldova",
+            "density": "119.1858",
+            "densityMi": "308.6913",
+            "pop2020": "4033.9630",
+            "area": 33846
+        },
+        {
+            "rank": 2,
+            "name": "Monaco",
+            "density": "19426.7327",
+            "densityMi": "50315.2376",
+            "pop2020": "39.2420",
+            "area": "2.0200"
+        },
+        {
+            "rank": 230,
+            "name": "Mongolia",
+            "density": "2.0959",
+            "densityMi": "5.4285",
+            "pop2020": "3278.2900",
+            "area": 1564110
+        },
+        {
+            "rank": 164,
+            "name": "Montenegro",
+            "density": "45.4725",
+            "densityMi": "117.7737",
+            "pop2020": "628.0660",
+            "area": 13812
+        },
+        {
+            "rank": 160,
+            "name": "Montserrat",
+            "density": "48.9412",
+            "densityMi": "126.7576",
+            "pop2020": "4.9920",
+            "area": 102
+        },
+        {
+            "rank": 124,
+            "name": "Morocco",
+            "density": "82.6572",
+            "densityMi": "214.0821",
+            "pop2020": "36910.5600",
+            "area": 446550
+        },
+        {
+            "rank": 171,
+            "name": "Mozambique",
+            "density": "38.9918",
+            "densityMi": "100.9888",
+            "pop2020": "31255.4350",
+            "area": 801590
+        },
+        {
+            "rank": 128,
+            "name": "Myanmar",
+            "density": "80.4191",
+            "densityMi": "208.2855",
+            "pop2020": "54409.8000",
+            "area": 676578
+        },
+        {
+            "rank": 228,
+            "name": "Namibia",
+            "density": "3.0776",
+            "densityMi": "7.9710",
+            "pop2020": "2540.9050",
+            "area": 825615
+        },
+        {
+            "rank": 22,
+            "name": "Nauru",
+            "density": "515.4286",
+            "densityMi": "1334.9600",
+            "pop2020": "10.8240",
+            "area": 21
+        },
+        {
+            "rank": 72,
+            "name": "Nepal",
+            "density": "197.9658",
+            "densityMi": "512.7315",
+            "pop2020": "29136.8080",
+            "area": 147181
+        },
+        {
+            "rank": 32,
+            "name": "Netherlands",
+            "density": "409.4354",
+            "densityMi": "1060.4377",
+            "pop2020": "17134.8720",
+            "area": 41850
+        },
+        {
+            "rank": 210,
+            "name": "New Caledonia",
+            "density": "15.3700",
+            "densityMi": "39.8083",
+            "pop2020": "285.4980",
+            "area": 18575
+        },
+        {
+            "rank": 200,
+            "name": "New Zealand",
+            "density": "17.8293",
+            "densityMi": "46.1778",
+            "pop2020": "4822.2330",
+            "area": 270467
+        },
+        {
+            "rank": 157,
+            "name": "Nicaragua",
+            "density": "50.8123",
+            "densityMi": "131.6039",
+            "pop2020": "6624.5540",
+            "area": 130373
+        },
+        {
+            "rank": 197,
+            "name": "Niger",
+            "density": "19.1055",
+            "densityMi": "49.4832",
+            "pop2020": "24206.6440",
+            "area": 1267000
+        },
+        {
+            "rank": 63,
+            "name": "Nigeria",
+            "density": "223.1508",
+            "densityMi": "577.9606",
+            "pop2020": "206139.5890",
+            "area": 923768
+        },
+        {
+            "rank": 218,
+            "name": "Niue",
+            "density": "6.2538",
+            "densityMi": "16.1975",
+            "pop2020": "1.6260",
+            "area": 260
+        },
+        {
+            "rank": 67,
+            "name": "North Korea",
+            "density": "213.8646",
+            "densityMi": "553.9094",
+            "pop2020": "25778.8160",
+            "area": 120538
+        },
+        {
+            "rank": 91,
+            "name": "Northern Mariana Islands",
+            "density": "124.0496",
+            "densityMi": "321.2884",
+            "pop2020": "57.5590",
+            "area": 464
+        },
+        {
+            "rank": 203,
+            "name": "Norway",
+            "density": "16.7425",
+            "densityMi": "43.3630",
+            "pop2020": "5421.2410",
+            "area": 323802
+        },
+        {
+            "rank": 204,
+            "name": "Oman",
+            "density": "16.4996",
+            "densityMi": "42.7340",
+            "pop2020": "5106.6260",
+            "area": 309500
+        },
+        {
+            "rank": 53,
+            "name": "Pakistan",
+            "density": "250.4698",
+            "densityMi": "648.7168",
+            "pop2020": "220892.3400",
+            "area": 881912
+        },
+        {
+            "rank": 170,
+            "name": "Palau",
+            "density": "39.4205",
+            "densityMi": "102.0990",
+            "pop2020": "18.0940",
+            "area": 459
+        },
+        {
+            "rank": 13,
+            "name": "Palestine",
+            "density": "820.1630",
+            "densityMi": "2124.2222",
+            "pop2020": "5101.4140",
+            "area": 6220
+        },
+        {
+            "rank": 151,
+            "name": "Panama",
+            "density": "57.2121",
+            "densityMi": "148.1794",
+            "pop2020": "4314.7670",
+            "area": 75417
+        },
+        {
+            "rank": 195,
+            "name": "Papua New Guinea",
+            "density": "19.3307",
+            "densityMi": "50.0665",
+            "pop2020": "8947.0240",
+            "area": 462840
+        },
+        {
+            "rank": 201,
+            "name": "Paraguay",
+            "density": "17.5353",
+            "densityMi": "45.4166",
+            "pop2020": "7132.5380",
+            "area": 406752
+        },
+        {
+            "rank": 184,
+            "name": "Peru",
+            "density": "25.6547",
+            "densityMi": "66.4457",
+            "pop2020": "32971.8540",
+            "area": 1285216
+        },
+        {
+            "rank": 42,
+            "name": "Philippines",
+            "density": "320.0821",
+            "densityMi": "829.0127",
+            "pop2020": "109581.0780",
+            "area": 342353
+        },
+        {
+            "rank": 92,
+            "name": "Poland",
+            "density": "121.0398",
+            "densityMi": "313.4931",
+            "pop2020": "37846.6110",
+            "area": 312679
+        },
+        {
+            "rank": 101,
+            "name": "Portugal",
+            "density": "110.7255",
+            "densityMi": "286.7790",
+            "pop2020": "10196.7090",
+            "area": 92090
+        },
+        {
+            "rank": 41,
+            "name": "Puerto Rico",
+            "density": "322.5313",
+            "densityMi": "835.3562",
+            "pop2020": "2860.8530",
+            "area": 8870
+        },
+        {
+            "rank": 55,
+            "name": "Qatar",
+            "density": "248.6668",
+            "densityMi": "644.0469",
+            "pop2020": "2881.0530",
+            "area": 11586
+        },
+        {
+            "rank": 209,
+            "name": "Republic of the Congo",
+            "density": "16.1348",
+            "densityMi": "41.7890",
+            "pop2020": "5518.0870",
+            "area": 342000
+        },
+        {
+            "rank": 35,
+            "name": "Reunion",
+            "density": "356.5560",
+            "densityMi": "923.4799",
+            "pop2020": "895.3120",
+            "area": 2511
+        },
+        {
+            "rank": 127,
+            "name": "Romania",
+            "density": "80.6981",
+            "densityMi": "209.0080",
+            "pop2020": "19237.6910",
+            "area": 238391
+        },
+        {
+            "rank": 214,
+            "name": "Russia",
+            "density": "8.5351",
+            "densityMi": "22.1058",
+            "pop2020": "145934.4620",
+            "area": 17098242
+        },
+        {
+            "rank": 24,
+            "name": "Rwanda",
+            "density": "491.7692",
+            "densityMi": "1273.6823",
+            "pop2020": "12952.2180",
+            "area": 26338
+        },
+        {
+            "rank": 25,
+            "name": "Saint Barthélemy",
+            "density": "470.3333",
+            "densityMi": "1218.1633",
+            "pop2020": "9.8770",
+            "area": 21
+        },
+        {
+            "rank": 69,
+            "name": "Saint Kitts and Nevis",
+            "density": "203.8276",
+            "densityMi": "527.9134",
+            "pop2020": "53.1990",
+            "area": 261
+        },
+        {
+            "rank": 46,
+            "name": "Saint Lucia",
+            "density": "298.0958",
+            "densityMi": "772.0681",
+            "pop2020": "183.6270",
+            "area": 616
+        },
+        {
+            "rank": 14,
+            "name": "Saint Martin",
+            "density": "729.5472",
+            "densityMi": "1889.5272",
+            "pop2020": "38.6660",
+            "area": 53
+        },
+        {
+            "rank": 190,
+            "name": "Saint Pierre and Miquelon",
+            "density": "23.9421",
+            "densityMi": "62.0102",
+            "pop2020": "5.7940",
+            "area": 242
+        },
+        {
+            "rank": 48,
+            "name": "Saint Vincent and the Grenadines",
+            "density": "285.1928",
+            "densityMi": "738.6494",
+            "pop2020": "110.9400",
+            "area": 389
+        },
+        {
+            "rank": 140,
+            "name": "Samoa",
+            "density": "69.8149",
+            "densityMi": "180.8206",
+            "pop2020": "198.4140",
+            "area": 2842
+        },
+        {
+            "rank": 21,
+            "name": "San Marino",
+            "density": "556.2459",
+            "densityMi": "1440.6769",
+            "pop2020": "33.9310",
+            "area": 61
+        },
+        {
+            "rank": 61,
+            "name": "Sao Tome and Principe",
+            "density": "227.3434",
+            "densityMi": "588.8193",
+            "pop2020": "219.1590",
+            "area": 964
+        },
+        {
+            "rank": 208,
+            "name": "Saudi Arabia",
+            "density": "16.1948",
+            "densityMi": "41.9446",
+            "pop2020": "34813.8710",
+            "area": 2149690
+        },
+        {
+            "rank": 123,
+            "name": "Senegal",
+            "density": "85.1147",
+            "densityMi": "220.4470",
+            "pop2020": "16743.9270",
+            "area": 196722
+        },
+        {
+            "rank": 113,
+            "name": "Serbia",
+            "density": "98.8827",
+            "densityMi": "256.1061",
+            "pop2020": "8737.3710",
+            "area": 88361
+        },
+        {
+            "rank": 66,
+            "name": "Seychelles",
+            "density": "217.5819",
+            "densityMi": "563.5370",
+            "pop2020": "98.3470",
+            "area": 452
+        },
+        {
+            "rank": 100,
+            "name": "Sierra Leone",
+            "density": "111.1930",
+            "densityMi": "287.9898",
+            "pop2020": "7976.9830",
+            "area": 71740
+        },
+        {
+            "rank": 3,
+            "name": "Singapore",
+            "density": "8239.9183",
+            "densityMi": "21341.3884",
+            "pop2020": "5850.3420",
+            "area": 710
+        },
+        {
+            "rank": 10,
+            "name": "Sint Maarten",
+            "density": "1261.0588",
+            "densityMi": "3266.1424",
+            "pop2020": "42.8760",
+            "area": 34
+        },
+        {
+            "rank": 99,
+            "name": "Slovakia",
+            "density": "111.3372",
+            "densityMi": "288.3633",
+            "pop2020": "5459.6420",
+            "area": 49037
+        },
+        {
+            "rank": 108,
+            "name": "Slovenia",
+            "density": "102.5471",
+            "densityMi": "265.5971",
+            "pop2020": "2078.9380",
+            "area": 20273
+        },
+        {
+            "rank": 191,
+            "name": "Solomon Islands",
+            "density": "23.7709",
+            "densityMi": "61.5666",
+            "pop2020": "686.8840",
+            "area": 28896
+        },
+        {
+            "rank": 188,
+            "name": "Somalia",
+            "density": "24.9244",
+            "densityMi": "64.5542",
+            "pop2020": "15893.2220",
+            "area": 637657
+        },
+        {
+            "rank": 161,
+            "name": "South Africa",
+            "density": "48.5724",
+            "densityMi": "125.8025",
+            "pop2020": "59308.6900",
+            "area": 1221037
+        },
+        {
+            "rank": 23,
+            "name": "South Korea",
+            "density": "511.6175",
+            "densityMi": "1325.0892",
+            "pop2020": "51269.1850",
+            "area": 100210
+        },
+        {
+            "rank": 199,
+            "name": "South Sudan",
+            "density": "18.0618",
+            "densityMi": "46.7801",
+            "pop2020": "11193.7250",
+            "area": 619745
+        },
+        {
+            "rank": 118,
+            "name": "Spain",
+            "density": "92.4022",
+            "densityMi": "239.3217",
+            "pop2020": "46754.7780",
+            "area": 505992
+        },
+        {
+            "rank": 40,
+            "name": "Sri Lanka",
+            "density": "326.3717",
+            "densityMi": "845.3028",
+            "pop2020": "21413.2490",
+            "area": 65610
+        },
+        {
+            "rank": 192,
+            "name": "Sudan",
+            "density": "23.2490",
+            "densityMi": "60.2150",
+            "pop2020": "43849.2600",
+            "area": 1886068
+        },
+        {
+            "rank": 224,
+            "name": "Suriname",
+            "density": "3.5810",
+            "densityMi": "9.2747",
+            "pop2020": "586.6320",
+            "area": 163820
+        },
+        {
+            "rank": 142,
+            "name": "Swaziland",
+            "density": "66.8143",
+            "densityMi": "173.0491",
+            "pop2020": "1160.1640",
+            "area": 17364
+        },
+        {
+            "rank": 193,
+            "name": "Sweden",
+            "density": "22.4281",
+            "densityMi": "58.0888",
+            "pop2020": "10099.2650",
+            "area": 450295
+        },
+        {
+            "rank": 68,
+            "name": "Switzerland",
+            "density": "209.6362",
+            "densityMi": "542.9578",
+            "pop2020": "8654.6220",
+            "area": 41284
+        },
+        {
+            "rank": 116,
+            "name": "Syria",
+            "density": "94.5062",
+            "densityMi": "244.7711",
+            "pop2020": "17500.6580",
+            "area": 185180
+        },
+        {
+            "rank": 17,
+            "name": "Taiwan",
+            "density": "658.0492",
+            "densityMi": "1704.3474",
+            "pop2020": "23816.7750",
+            "area": 36193
+        },
+        {
+            "rank": 143,
+            "name": "Tajikistan",
+            "density": "66.6502",
+            "densityMi": "172.6240",
+            "pop2020": "9537.6450",
+            "area": 143100
+        },
+        {
+            "rank": 147,
+            "name": "Tanzania",
+            "density": "63.2050",
+            "densityMi": "163.7009",
+            "pop2020": "59734.2180",
+            "area": 945087
+        },
+        {
+            "rank": 86,
+            "name": "Thailand",
+            "density": "136.0305",
+            "densityMi": "352.3190",
+            "pop2020": "69799.9780",
+            "area": 513120
+        },
+        {
+            "rank": 121,
+            "name": "Timor-Leste",
+            "density": "88.6409",
+            "densityMi": "229.5800",
+            "pop2020": "1318.4450",
+            "area": 14874
+        },
+        {
+            "rank": 82,
+            "name": "Togo",
+            "density": "145.7907",
+            "densityMi": "377.5979",
+            "pop2020": "8278.7240",
+            "area": 56785
+        },
+        {
+            "rank": 98,
+            "name": "Tokelau",
+            "density": "113.0833",
+            "densityMi": "292.8858",
+            "pop2020": "1.3570",
+            "area": 12
+        },
+        {
+            "rank": 84,
+            "name": "Tonga",
+            "density": "141.4926",
+            "densityMi": "366.4659",
+            "pop2020": "105.6950",
+            "area": 747
+        },
+        {
+            "rank": 51,
+            "name": "Trinidad and Tobago",
+            "density": "272.8047",
+            "densityMi": "706.5641",
+            "pop2020": "1399.4880",
+            "area": 5130
+        },
+        {
+            "rank": 137,
+            "name": "Tunisia",
+            "density": "72.2365",
+            "densityMi": "187.0926",
+            "pop2020": "11818.6190",
+            "area": 163610
+        },
+        {
+            "rank": 103,
+            "name": "Turkey",
+            "density": "107.6355",
+            "densityMi": "278.7759",
+            "pop2020": "84339.0670",
+            "area": 783562
+        },
+        {
+            "rank": 212,
+            "name": "Turkmenistan",
+            "density": "12.3565",
+            "densityMi": "32.0033",
+            "pop2020": "6031.2000",
+            "area": 488100
+        },
+        {
+            "rank": 169,
+            "name": "Turks and Caicos Islands",
+            "density": "40.8407",
+            "densityMi": "105.7775",
+            "pop2020": "38.7170",
+            "area": 948
+        },
+        {
+            "rank": 27,
+            "name": "Tuvalu",
+            "density": "453.5385",
+            "densityMi": "1174.6646",
+            "pop2020": "11.7920",
+            "area": 26
+        },
+        {
+            "rank": 73,
+            "name": "Uganda",
+            "density": "189.3645",
+            "densityMi": "490.4542",
+            "pop2020": "45741.0070",
+            "area": 241550
+        },
+        {
+            "rank": 136,
+            "name": "Ukraine",
+            "density": "72.4669",
+            "densityMi": "187.6892",
+            "pop2020": "43733.7620",
+            "area": 603500
+        },
+        {
+            "rank": 95,
+            "name": "United Arab Emirates",
+            "density": "118.3062",
+            "densityMi": "306.4132",
+            "pop2020": "9890.4020",
+            "area": 83600
+        },
+        {
+            "rank": 49,
+            "name": "United Kingdom",
+            "density": "279.4813",
+            "densityMi": "723.8566",
+            "pop2020": "67886.0110",
+            "area": 242900
+        },
+        {
+            "rank": 174,
+            "name": "United States",
+            "density": "35.3160",
+            "densityMi": "91.4683",
+            "pop2020": "331002.6510",
+            "area": 9372610
+        },
+        {
+            "rank": 45,
+            "name": "United States Virgin Islands",
+            "density": "300.9366",
+            "densityMi": "779.4258",
+            "pop2020": "104.4250",
+            "area": 347
+        },
+        {
+            "rank": 196,
+            "name": "Uruguay",
+            "density": "19.1883",
+            "densityMi": "49.6976",
+            "pop2020": "3473.7300",
+            "area": 181034
+        },
+        {
+            "rank": 133,
+            "name": "Uzbekistan",
+            "density": "74.8082",
+            "densityMi": "193.7533",
+            "pop2020": "33469.2030",
+            "area": 447400
+        },
+        {
+            "rank": 186,
+            "name": "Vanuatu",
+            "density": "25.1985",
+            "densityMi": "65.2642",
+            "pop2020": "307.1450",
+            "area": 12189
+        },
+        {
+            "rank": 7,
+            "name": "Vatican City",
+            "density": "1820.4545",
+            "densityMi": "4714.9773",
+            "pop2020": "0.8010",
+            "area": "0.4400"
+        },
+        {
+            "rank": 177,
+            "name": "Venezuela",
+            "density": "31.0285",
+            "densityMi": "80.3639",
+            "pop2020": "28435.9400",
+            "area": 916445
+        },
+        {
+            "rank": 47,
+            "name": "Vietnam",
+            "density": "293.8860",
+            "densityMi": "761.1648",
+            "pop2020": "97338.5790",
+            "area": 331212
+        },
+        {
+            "rank": 129,
+            "name": "Wallis and Futuna",
+            "density": "79.1479",
+            "densityMi": "204.9930",
+            "pop2020": "11.2390",
+            "area": 142
+        },
+        {
+            "rank": 229,
+            "name": "Western Sahara",
+            "density": "2.2456",
+            "densityMi": "5.8162",
+            "pop2020": "597.3390",
+            "area": 266000
+        },
+        {
+            "rank": 152,
+            "name": "Yemen",
+            "density": "56.4920",
+            "densityMi": "146.3143",
+            "pop2020": "29825.9640",
+            "area": 527968
+        },
+        {
+            "rank": 189,
+            "name": "Zambia",
+            "density": "24.4269",
+            "densityMi": "63.2656",
+            "pop2020": "18383.9550",
+            "area": 752612
+        },
+        {
+            "rank": 173,
+            "name": "Zimbabwe",
+            "density": "38.0362",
+            "densityMi": "98.5138",
+            "pop2020": "14862.9240",
+            "area": 390757
+        }
+    ]
+}
