@@ -1,4 +1,4 @@
-Country,Area,Birth rate,Death rate,Hospital bed density,Physicians density,Life expectancy at birth,Population below poverty line,Unemployment rate
+Country,Area(km^2),Birth_rate_per_1000,Birth_rate_per_1000,Hospital_bed_density_per_1000,Physicians_density_per_1000,Life_expec_at_birth,Percentage_below_poverty_line,Unemployment_rate_%
 Afghanistan,652230.0,37.5,13.2,0.5,0.3,52.1,54.5,23.9
 Albania,28748.0,13.2,6.9,2.9,1.29,78.6,14.3,13.8
 Algeria,2381740.0,21.5,4.3,1.9,,77.2,23.0,11.7
