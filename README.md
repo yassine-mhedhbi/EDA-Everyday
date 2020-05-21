@@ -1,3 +1,6 @@
+## Scraping CIA data
+  - clean and explore [CIA factbook 2018](https://www.cia.gov/library/publications/download/)
+
 ## COVID-19 hacking
 
 * Analyzing mood related to lockdown from tweets
